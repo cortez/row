@@ -1,13 +1,13 @@
 let pastes = [
-  "paste1", // ctrl+1
-  "paste2", // ctrl+2
-  "paste3", // ctrl+3
-  "paste4", // ctrl+4
-  "paste5", // ctrl+5
-  "paste6", // ctrl+6
-  "paste7", // ctrl+7
-  "paste8", // ctrl+8
-  "paste9"  // ctrl+9
+  "paste1",
+  "paste2",
+  "paste3",
+  "paste4",
+  "paste5",
+  "paste6",
+  "paste7",
+  "paste8",
+  "paste9"
 ];
 
 function copy(text) {
