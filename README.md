@@ -8,4 +8,4 @@
 
 ### How to access your saved text using keyboard shortcuts:
 
-Press <kbd>control</kbd> + <kbd>1</kbd>-<kbd>9</kbd>
+Press <kbd>control</kbd> + a number between <kbd>1</kbd> and <kbd>9</kbd>
