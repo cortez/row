@@ -1,4 +1,4 @@
-### How to install in Arc:
+### How to install in [Arc](https://arc.net):
 
 1. Press <kbd>command</kbd> + <kbd>t</kbd>.
 2. Type "New Boost" and press enter.
