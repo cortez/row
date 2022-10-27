@@ -8,4 +8,5 @@
 
 ### How to access your saved text using keyboard shortcuts:
 
-Press <kbd>control</kbd> + a number between <kbd>1</kbd> and <kbd>9</kbd>
+1. Press <kbd>control</kbd> + a number between <kbd>1</kbd> and <kbd>9</kbd> to copy the value.
+2. Paste anywhere!
